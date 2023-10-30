@@ -16,5 +16,9 @@ Level0与Level1的版权已难以追溯, 故直接使用。
 
 放出的试玩版使用 CC BY-NC-SA 4.0 许可证, 并未对模组进行混淆, 你可以反混淆来看看实现。到时候公开会开源并换到CCBY许可证喵~ 
 
+### 运行环境
+
+MinecraftForge1.18.2, Forge版本>=40
+
 ### 临时图标
 ![临时图标](https://pltision.github.io/docs/brmods/%E4%B8%B4%E6%97%B6%E5%9B%BE%E6%A0%87.png)
