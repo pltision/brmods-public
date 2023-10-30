@@ -16,7 +16,7 @@ Level0与Level1的版权已难以追溯, 故直接使用。
 
 放出的试玩版使用 CC BY-NC-SA 4.0 许可证, 并未对模组进行混淆, 你可以反编译来看看实现。到时候正式公开时会开源并换到CCBY许可证喵~ 
 
-模组目前没有 (也不准备制作) 进入后室的方式, 创建世界后需要输入 ```/execute in backrooms:level0``` 进入Level0。
+模组目前没有 (也不准备制作) 进入后室的方式, 创建世界后需要输入 ```/execute in backrooms:level0 run tp ~ ~ ~``` 进入Level0。
 
 ### 运行环境
 
