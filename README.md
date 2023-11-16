@@ -10,7 +10,7 @@ Level0与Level1的版权已难以追溯, 故直接使用。
 
 ## pertaz's Backrooms Generator
 
-此Mod主要用于生成后室地形, 目前正在且仅在制作Level0, 预计在一个月内完成并开始制作Level1, 可能不会继续去做Level2而是自己构思楼层。
+此Mod主要用于生成后室地形, 目前正在制作Level1, 同时Level0的内容有待完善, 后续可能不会继续去做Level2而是自己构思楼层。
 
 若高版本的格雷科技能够完成, 将会制作附属模组与其联动并添加Level3。
 
