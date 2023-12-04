@@ -22,3 +22,6 @@ MinecraftForge1.18.2, Forge版本>=40
 
 ### 临时图标
 ![临时图标](https://pltision.github.io/docs/brmods/%E4%B8%B4%E6%97%B6%E5%9B%BE%E6%A0%87.png)
+
+### 其他信息
+模组已上传至MC百科，此声明可证明作者身份，上传者为pltision。
